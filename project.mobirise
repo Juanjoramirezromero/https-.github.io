@@ -103,7 +103,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": true,
+            "sticky": false,
             "logo": true,
             "showBrand": true,
             "collapsed": true,
